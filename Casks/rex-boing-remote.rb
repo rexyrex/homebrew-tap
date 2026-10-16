@@ -4,7 +4,7 @@ cask "rex-boing-remote" do
 
   url "https://github.com/rexyrex/Rex-Boing-Remote/releases/download/v#{version}/Rex.Boing.Remote.zip"
   name "Rex Boing Remote"
-  desc "Menu bar monitor for Linux, macOS and Windows servers over SSH"
+  desc "Menu bar monitor for remote servers over SSH"
   homepage "https://github.com/rexyrex/Rex-Boing-Remote"
 
   livecheck do
