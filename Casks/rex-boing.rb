@@ -1,6 +1,6 @@
 cask "rex-boing" do
-  version "1.2.0"
-  sha256 "5ecf0d05ddf558cc95d76b688ff5179fb23f537df24e2560d9d7d08e6f5e9209"
+  version "1.3.0"
+  sha256 "bff8c2c6cbdefc9bc26a14cc3dac0d2e6a4c4a8a1ed88254498237ee86c2a3ef"
 
   url "https://github.com/rexyrex/Rex-Boing/releases/download/v#{version}/Rex.Boing.zip"
   name "Rex Boing"
