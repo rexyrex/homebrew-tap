@@ -1,6 +1,6 @@
 cask "rex-boing-remote" do
-  version "0.2.0"
-  sha256 "8fe66797906393893125eeaec3bc39f3c63b910a575ee1fd9d66736ccb8434b3"
+  version "0.3.0"
+  sha256 "a77c4f7a329a58faa44785ef512907ed6b09090b7060f1f0154810696384204c"
 
   url "https://github.com/rexyrex/Rex-Boing-Remote/releases/download/v#{version}/Rex.Boing.Remote.zip"
   name "Rex Boing Remote"
